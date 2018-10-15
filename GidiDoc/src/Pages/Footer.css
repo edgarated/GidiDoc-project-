@@ -1,0 +1,23 @@
+.footer {
+    background: #0f3e92;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer p {
+    font-size: 15px;
+    color: #fff;
+    margin: 0;
+}
+
+.roboto-light {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+
+.footer p a {
+    color: #fff;
+}
+
+.bold{color:rgb(159, 184, 236)}

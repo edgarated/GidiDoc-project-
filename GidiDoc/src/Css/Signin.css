@@ -1,0 +1,37 @@
+
+
+.style-me{box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    padding:20px 40px 40px 40px ;
+    margin-top:100px;
+    width:400px;
+    height: 500px
+
+
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    padding-top:20px;
+    outline: none;
+}
+
+/* Set a style for the submit button */
+.style3-btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 40px;
+    margin-top:35px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.style3-btn:hover {
+    opacity: 1;
+}
+
+.amBlue{color:black;
+    margin-bottom:50px;
+font-weight:bold}

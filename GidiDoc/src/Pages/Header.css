@@ -1,0 +1,62 @@
+.header-wrapper {
+    position: initial;
+    background:rgb(254, 255, 255);
+    height: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+
+.header .call-area h2{
+    font-size: 25px;
+}
+.header .call-area h2 {
+    padding: 8px 0 0 0;
+    margin: 0 0;
+    font-size: 20px;
+}
+
+.header .call-area h2 {
+    padding: 8px 0 0 0;
+    margin: 0 0;
+    font-size: 25px;
+    color: #114dba;
+}
+.roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.blue-btn {
+    display: inline-block;
+    background: #114dba;
+    color: #fff;   
+}
+
+.green-btn {
+    display: inline-block;
+    background:#57c5c7;
+    color: #fff;   
+}
+
+.btn:hover{color:rgb(141, 145, 143)}
+
+.roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.header .call-area h2 span.call-desc {
+    font-size: 16px;
+    color:#57c5c7;
+    display: block;
+    font-weight: 100;
+}
+
+.gidi-cyan{color:#114dba;
+font-weight: bold;
+font-size:50px}
+
+.gidi-cyan2{color:#57c5c7;}
+
+.menu-style{padding-right: 20px;}

@@ -1,0 +1,515 @@
+
+.col-auto{background: #114dba;}
+
+/* THIS IS FOR THE SEARCH BAR */ 
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.card-body{border: 4px solid rgb(40, 121, 243);}
+
+
+.list{padding-left: 380px;
+padding-top: 50px}
+
+
+.blog .carousel-indicators {
+	left: 0;
+	top: auto;
+    bottom: -40px;
+
+}
+
+/* This is for jumbotron */
+.col-xs-12 {
+    width: 100%;
+}
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* The colour of the indicators */
+.blog .carousel-indicators li {
+    background: #a3a3a3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+}
+
+.blog .carousel-indicators .active {
+background: #707070;
+}
+
+@media only screen and (max-width: 768px) and (min-width: 220px)
+.search-area-wrap {
+    margin-top: 0px;
+}
+
+.search-area-wrap {
+    padding: 30px 0;
+    background: #fff1fc;
+    margin-top: 100px;
+}
+.common-wrapper {
+    width: 100%;
+    zoom: 1;
+}
+
+/* THIS IS FOR THE CAROUSEL*/ 
+
+.blog .carousel-indicators {
+	left: 0;
+	top: auto;
+    bottom: -40px;
+
+}
+
+/* The colour of the indicators */
+.blog .carousel-indicators li {
+    background: #a3a3a3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+}
+
+.blog .carousel-indicators .active {
+background: #707070;
+}
+
+/* CARD  */
+
+.marketing-block-wrapper .clinic-reg {
+    background: #7a00ff;
+    border-radius: 4px;
+    padding: 35px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;}
+
+/*  ADVERT   */
+    /* .container{padding-top: 50px} */
+
+    .cyan-strip {
+        display: block;
+        background: #57c5c7;
+        width: 88px;
+        height: 4px;
+        border-radius: 6px;
+    
+    }
+
+    .marketing-block-wrapper  .clinic-reg {
+        background: #8260ff;
+        border-radius: 4px;
+        padding: 35px;
+        padding-top: 0;
+        padding-bottom: 55px;
+    }
+    .common-wrapper {
+        width: 100%;
+        zoom: 1;
+    }
+
+    .container {
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 50px
+    }
+
+    .marketing-block-wrapper .clinic-reg h2 {
+        font-size: 30px;
+        color: #ffffff;
+        margin: 0;
+        padding: 10px 0;
+    }
+    
+    .marketing-block-wrapper .clinic-reg p {
+        font-size: 15px;
+        color: #ffffff;
+        margin: 0;
+        padding: 10px 0;
+    }
+
+    .marketing-block-wrapper .clinic-reg a.btn {
+        background: #fff;
+        padding: 12px 0;
+        font-size: 14px;
+        color: #222;
+        width: 100%;
+    }
+
+    /* OPEN: THIS IS FOR REQUIRE ASSISTANCE CARD */
+
+    .marketing-block-wrapper .need-hlp {
+        background: #43b9f7;
+        border-radius: 6px;
+        padding: 20px;
+    }
+    .help-paddding {
+        padding: 12px !important;
+    }
+
+    .marketing-block-wrapper .need-hlp h3 {
+        font-size: 18px;
+        color: #ffffff;
+        margin: 0;
+        padding: 10px 0;
+    }
+
+    .marketing-block-wrapper .need-hlp p {
+        font-size: 16px;
+        color: #ffffff;
+        margin: 0;
+        padding: 10px 0;
+    }
+
+    .marketing-block-wrapper .need-hlp h4 {
+        font-size: 14px;
+        color: #ffffff;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .roboto-light {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    }
+     /* CLOSE: THIS IS FOR REQUIRE ASSISTANCE CARD */
+
+    /*   baby pictures  */
+    @media only screen and (max-width: 991px) and (min-width: 220px)
+.marketing-block-wrapper .business-banner {
+    padding-top: 40%;
+}
+
+.marketing-block-wrapper .business-banner {
+    padding-top: 64%;
+    border: solid 1px #e1e1e1;
+    border-radius: 3px;
+}
+
+{
+    background: url(https://static.qkdoc.com/articles/articles_4_29_06_2018_182949.368323.jpg) no-repeat center;
+    background-size: cover;
+}
+
+/* OPEN: THIS STYLES THE CONTENTS BELOW THE CAROUSEL  */
+
+@media only screen and (max-width: 991px) and (min-width: 220px)
+.marketing-block-wrapper .business-banner--text {
+    position: static;
+}
+/* OPEN: This styles how to tackle tension in children card  */
+.marketing-block-wrapper .business-banner--text {
+    background: #114dba;
+    padding:10px;
+    position: relative;
+    bottom: 0;
+    right: 0;
+
+}
+
+.marketing-block-wrapper .business-banner--text h2 {
+    font-size: 32px;
+    color: #fff;
+    margin: 6px 0 0 0;
+    padding: 0;
+    line-height: 1.2;
+}
+
+.marketing-block-wrapper .business-banner--text p {
+    font-size: 18px;
+    color: #a4bfef;
+    margin: 6px 0 0 0;
+    padding: 0;
+}
+
+.marketing-block-wrapper .business-banner--text a {
+    font-size: 15px;
+    color: #fff;
+    display: inline-block;
+    text-decoration: underline;}
+/* Close: This styles how to tackle tension in children card  */
+
+     .brbottom-20{padding-top:10px}
+
+     /* CLOSE: THIS STYLES THE CONTENTS BELOW THE CAROUSEL  */
+
+
+/* LIST */
+
+
+.content-block-wrapper ul li.ico-header {
+    font-size: 17px;
+    color: #114dba;
+    border-bottom: 0;
+    padding: 6px 0 0px 0;
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 220px)
+.content-block-wrapper ul li {
+    padding: 0px 0 500px 0;
+}
+@media only screen and (max-width: 1199px) and (min-width: 220px)
+.content-block-wrapper ul li {
+    padding: 0px 0 10px 0;
+}
+.content-block-wrapper ul li {
+    font-size: 15px;
+    color: #000;
+    line-height: 1.6;
+    list-style: none;
+    display: block;
+    padding: 0px 0 20px 0;
+    border-bottom: solid 1px #e1e1e1;
+}
+
+.white-box {
+    background: #fff;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 4px 0px rgba(51, 51, 51, 0.15);
+}
+@media only screen and (max-width: 1199px) and (min-width: 220px)
+.white-box h1 {
+    font-size: 32px;
+}
+
+/* WHITE BOX */
+.white-box h1 {
+    font-size: 42px;
+    color: #333;
+    line-height: 1.4;
+}
+.roboto-light {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+element.style {
+    margin-bottom: 10px;
+}
+
+.white-box p {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+}
+.roboto-light {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+element.style {
+    font-size: 21px;
+}
+@media only screen and (max-width: 1199px) and (min-width: 220px)
+.white-box h1 span {
+    font-size: 24px;
+}
+.white-box h1 span {
+    font-size: 25px;
+    display: block;
+}
+.roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.white-box a.register {
+    padding: 9px 60px;
+    color: #114dba;
+    background: #fff;
+    border: #114dba solid 1px;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 3px;
+}
+
+
+@media only screen and (max-width: 991px) and (min-width: 220px)
+.content-block-wrapper .white-box {
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+.content-block-wrapper .white-box {
+    margin-bottom: 40px;
+}
+@media only screen and (max-width: 1199px) and (min-width: 220px)
+.white-box {
+    padding: 20px;
+}
+.white-box {
+    background: #fff;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 4px 0px rgba(51, 51, 51, 0.15);
+}
+
+.blue-strip {
+    display: block;
+    background: #114dba;
+    width: 38px;
+    height: 4px;
+    border-radius: 6px;
+    margin-top: 7px;
+}
+
+.content-block-wrapper {
+    background: #f7f7fa;
+    margin-top: 40px;
+    padding-top: 2px;
+    padding-bottom: 30px;
+}
+.common-wrapper {
+    width: 100%;
+    zoom: 1;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    line-height: 1;
+}
+
+.search-area-wrap .search-box {
+    background: #114dba;
+    padding: 15px;
+    margin-top: 35px;
+    margin-left: 10px;
+    box-shadow: -3px -2px 0 0 #d0f8f4;
+    border-radius: 4px;
+}
+
+.search-box select {
+    height: 50px;
+    border: 0;
+    background: #114dba;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #333;
+    width: 100%;
+    background: #fff;
+}
+
+.roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.search-area-wrap .search-box input, .search-area-wrap .search-box select {
+    height: 50px;
+    border: 0;
+    background: #114dba;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #333;
+    width: 100%;
+    background: #fff;
+}
+
+/* This styles the search bar jumbotron */
+@media only screen and (max-width: 768px) and (min-width: 220px)
+.search-area-wrap {
+    margin-top: 0px;
+}
+
+.search-area-wrap {
+    padding: 30px 0;
+    background: #f1f9ff;
+    margin-top: 100px;
+}
+.common-wrapper {
+    width: 100%;
+    zoom: 1;
+}
+/* This styles the search bar  */
+.cyan-btn {
+    display: inline-block;
+    background: #57c5c7;
+    color: #fff;
+}
+/* THIS STYLES THE THREE ICONS BELOW THE CAROUSEL  */
+.count-main{padding-top:25px}
+
+
+.roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    width:100%
+}
+
+.register{
+
+    width:45%
+}
+
+
+.footer-links {
+    background: #114dba;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.common-wrapper {
+    width: 100%;
+    zoom: 1;
+}
+
+
+.carousel-inner{width: 50%}
+
+.img-responsive{ border-radius: 50%;
+height:50%;
+width:100%}
+
+.gidi-cyan{color:#114dba;
+    font-weight: bold;
+    font-size:50px}
+    
+    .gidi-cyan2{color:#57c5c7;}
+
+    .book:hover{ color: #43b9f7;
+    background-color:blue; }
+
+
+
+
+    
+
+
+
